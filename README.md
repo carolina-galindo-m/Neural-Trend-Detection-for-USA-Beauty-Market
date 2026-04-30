@@ -1,1 +1,1 @@
-# Neural-Trend-Detection-for-USA-Beauty-Market
+# Neural Trend Detection for USA Beauty Market
