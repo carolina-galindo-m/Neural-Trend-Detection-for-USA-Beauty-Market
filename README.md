@@ -92,7 +92,7 @@ The hardest architectural decision was integrating the two parallel tracks — t
 
 | Source | Description | Shape |
 |---|---|---|
-| Consumer Behavioral Dataset (Kaggle)	| 25 behavioral + demographic features per consumer	| (11,789 × 25) |
+| [Consumer Behavioral Dataset (Kaggle)](https://www.kaggle.com/datasets/minahilfatima12328/consumer-shopping-trends-analysis/data)	| 25 behavioral + demographic features per consumer	| (11,789 × 25) |
 | Google Trends Time Series (US) |	Monthly search interest, 15 beauty trends, 24 months | (25 × 16) |
 | Google Trends — Top Queries (US) |	Highest-volume related searches per trend	| (598 × 4) |
 | Google Trends — Rising Queries (US) | Breakout and high-growth related searches per trend |	(598 × 4) |
